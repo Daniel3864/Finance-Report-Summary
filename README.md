@@ -1,8 +1,10 @@
 # Finance-Report-Summary
 An interactive Power BI financial analytics report evaluating $127.93M in Gross Sales, $118.73M in Net Sales, $16.89M in Profit, and 1.13M Units Sold from 2013 to 2014. Built to uncover revenue drivers, margin performance, and regional demand across six product lines, five customer segments, and key North American and European markets.
 
-## Dashboard Preview
-![Dashboard - Finance Report Summary](assets/dashboard-preview.png)
+
+## 📊 Dashboard Preview
+
+![Finance Dashboard](images/dashboard.jpg)
 
 ## Key Performance Indicators (KPIs)
 * **Gross Sales:** $127.93M
