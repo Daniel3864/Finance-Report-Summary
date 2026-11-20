@@ -4,7 +4,7 @@ An interactive Power BI financial analytics report evaluating $127.93M in Gross 
 
 ## 📊 Dashboard Preview
 
-![Finance Dashboard](images/dashboard.jpg)
+![Finance Dashboard](images/dashboard.png)
 
 ## Key Performance Indicators (KPIs)
 * **Gross Sales:** $127.93M
