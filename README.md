@@ -1,6 +1,5 @@
 # Finance-Report-Summary
-Interactive Power BI Finance Report Summary analyzing $127.93M in gross sales, $16.89M profit, and 1.13M units across products, segments, and regions.
-An interactive Power BI financial performance dashboard analyzing **$127.93M in Gross Sales**, **$118.73M in Net Sales**, **$16.89M in Profit**, and **1.13M Units Sold** across product lines, customer segments, global markets, and time periods (2013–2014).
+An interactive Power BI financial analytics report evaluating $127.93M in Gross Sales, $118.73M in Net Sales, $16.89M in Profit, and 1.13M Units Sold from 2013 to 2014. Built to uncover revenue drivers, margin performance, and regional demand across six product lines, five customer segments, and key North American and European markets.
 
 ## Dashboard Preview
 ![Dashboard - Finance Report Summary](assets/dashboard-preview.png)
